@@ -1,3 +1,8 @@
+
+# Coursera course anout data analysis
+
+Exploratory Data Analysis - Johns Hopkins University
+
 ## Introduction
 
 This assignment uses data from
